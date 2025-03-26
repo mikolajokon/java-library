@@ -56,7 +56,7 @@ java-library/
 1. Skompiluj projekt:
 
 ```bash
-cd /Users/mikolajokon/java-library
+cd /java-library
 javac library/Library.java
 ```
 
